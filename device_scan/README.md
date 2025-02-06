@@ -25,8 +25,8 @@ docker build -t device_scan /path/to/your/project/device_scan
 Running the Docker Container
 After building the Docker image, run the Docker container using the following command:
 
-docker run -v /path/to/your/project/device_scan/reports:/app/reports device_scan
-This command mounts the local reports directory to the /app/reports directory inside the container, ensuring that the generated report is accessible on your host machine.
+docker run -v /path/to/your/project/device_scan:/app device_scan
+This command mounts the local device_scan directory to the /app directory inside the container, ensuring that the generated report is accessible on your host machine.
 
 Usage
-Once the Docker container is running, the device scan will execute, and the results will be printed to the terminal. The report will be saved to the reports directory on your host machine.
+Once the Docker container is running, the device scan will execute, and the results will be printed to the terminal. The report will be saved to the same directory as ds.py on your host machine.
