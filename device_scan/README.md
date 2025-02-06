@@ -1,35 +1,32 @@
-# Device Scan Report
+# Device Scan Project
 
-This project is a comprehensive device scanning tool that gathers various system and network information, checks for vulnerabilities, and compiles a detailed report. It is designed to work on both Windows and Linux systems.
+## Overview
+The Device Scan project is a tool designed to scan and report on various devices connected to a network. This project is containerized using Docker to ensure easy deployment and consistent environments.
 
 ## Features
+- Scans network devices
+- Generates detailed reports
+- Easy to deploy using Docker
 
-- **System Information**: Collects basic system information such as OS, OS version, hostname, and IP address.
-- **Network Configuration**: Gathers network configuration details including interface, IP address, and MAC address.
-- **Open Ports Scan**: Scans for open ports on a specified IP address.
-- **Installed Software**: Lists installed software and their versions.
-- **Running Processes**: Lists running processes and their details.
-- **Security Settings**: Checks common security settings such as firewall and antivirus status.
-- **User Accounts**: Lists user accounts and their privileges.
-- **File System Information**: Gathers information about the file system.
-- **Vulnerability Check**: Checks installed software against known vulnerabilities from CISA, NVD, and CVE Details.
-- **Report Compilation**: Compiles the gathered data into a user-friendly report.
+## Prerequisites
+- Docker installed on your machine. You can download Docker from the official Docker website.
 
-## Installation
+## Getting Started
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/device-scan-report.git
-    cd device-scan-report
-    ```
+### Cloning the Repository
+First, clone the repository to your local machine and navigate to the project directory:
+```bash
+git clone https://github.com/PigeonMan365/Portfolio.git
+cd Portfolio/device_scan
+Building the Docker Image
+To build the Docker image for the Device Scan project, use the following command:
 
-2. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+docker build -t device_scan .
+Running the Docker Container
+After building the Docker image, run the Docker container using the following command:
 
-## Usage
+docker run -p 3000:3000 device_scan
+This command maps port 3000 of your local machine to port 3000 of the Docker container. Adjust the port numbers if your application uses a different port.
 
-Run the script to generate the device scan report:
-```sh
-python device_scan_report.py
+Usage
+Once the Docker container is running, you can access the application by navigating to http://localhost:3000 in your web browser.
