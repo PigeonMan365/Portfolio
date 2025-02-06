@@ -16,8 +16,8 @@ The Device Scan project is a tool designed to scan and report on various devices
 ### Cloning the Repository
 First, clone the repository to your local machine and navigate to the project directory:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo/device_scan
+git clone https://github.com/pigeonman365/portfolio.git
+cd portfolio/device_scan
 Building the Docker Image
 To build the Docker image for the Device Scan project, use the following command:
 
