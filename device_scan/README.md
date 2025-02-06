@@ -21,12 +21,12 @@ cd Portfolio/device_scan
 Building the Docker Image
 To build the Docker image for the Device Scan project, use the following command:
 
-docker build -t device_scan .
+docker build -t device_scan C:\Users\pttre\Documents\code\Security\portfolio\device_scan
 Running the Docker Container
 After building the Docker image, run the Docker container using the following command:
 
-docker run -p 3000:3000 device_scan
-This command maps port 3000 of your local machine to port 3000 of the Docker container. Adjust the port numbers if your application uses a different port.
+docker run -v C:\Users\pttre\Documents\code\Security\portfolio\device_scan\reports:/app/reports device_scan
+This command mounts the local reports directory to the /app/reports directory inside the container, ensuring that the generated report is accessible on your host machine.
 
 Usage
-Once the Docker container is running, you can access the application by navigating to http://localhost:3000 in your web browser.
+Once the Docker container is running, the device scan will execute, and the results will be printed to the terminal. The report will be saved to the C:\Users\pttre\Documents\code\Security\portfolio\device_scan\reports directory on your host machine.
