@@ -1,0 +1,410 @@
+Device Scan Report
+====================
+
+Summary:
+This report provides a comprehensive overview of the device's security and overall configuration. It includes details about the operating system, network configuration, open ports, installed software, running processes, security settings, user accounts, and file system information.
+
+Security Overview:
+Firewall: Enabled
+Antivirus: Enabled
+Vulnerable Software: 0 items found
+
+Recommendations:
+1. Ensure your firewall is enabled and properly configured to block unauthorized access.
+2. Keep your antivirus software up to date and perform regular scans to detect and remove malware.
+3. Review the list of vulnerable software and update or replace any software with known vulnerabilities.
+4. Regularly update your operating system and installed software to the latest versions to mitigate security risks.
+5. Limit the number of open ports to only those necessary for your applications and services.
+6. Monitor running processes and terminate any suspicious or unauthorized processes.
+7. Review user accounts and remove any unnecessary or inactive accounts to reduce potential attack vectors.
+
+System Information:
+--------------------
+{'OS': 'Windows', 'OS Version': '10.0.26100', 'Hostname': 'Hermes', 'IP Address': '192.168.0.157'}
+
+Network Configuration:
+--------------------
+{'Interface': 'Ethernet', 'IP Address': '169.254.61.181', 'MAC Address': '04-42-1A-0E-98-DB'}
+{'Interface': 'Ethernet 2', 'IP Address': '169.254.212.191', 'MAC Address': '04-42-1A-0E-98-DA'}
+{'Interface': 'Local Area Connection* 1', 'IP Address': '169.254.31.36', 'MAC Address': '80-45-DD-74-D2-87'}
+{'Interface': 'Local Area Connection* 10', 'IP Address': '169.254.151.54', 'MAC Address': '82-45-DD-74-D2-86'}
+{'Interface': 'Wi-Fi', 'IP Address': '192.168.0.157', 'MAC Address': 'E2-C3-F7-56-7F-00'}
+{'Interface': 'Bluetooth Network Connection', 'IP Address': '169.254.55.194', 'MAC Address': '80-45-DD-74-D2-8A'}
+{'Interface': 'Loopback Pseudo-Interface 1', 'IP Address': '127.0.0.1', 'MAC Address': None}
+
+Open Ports:
+--------------------
+
+Installed Software:
+--------------------
+{'Name': 'Python 3.12.1 Test Suite (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.11.1 Utility Scripts (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.11.1 Standard Library (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.11.1 Core Interpreter (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.12.1 Documentation (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.12.1 Tcl/Tk Support (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.11.1 Test Suite (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.12.1 Core Interpreter (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Microsoft Teams Meeting Add-in for Microsoft Office', 'Version': '1.24.14501'}
+{'Name': 'Python 3.12.1 Standard Library (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.11.1 Development Libraries (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.12.1 Add to Path (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.11.1 Executables (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.11.1 Documentation (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.11.1 pip Bootstrap (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'Python 3.12.1 pip Bootstrap (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.12.1 Executables (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.12.1 Development Libraries (64-bit)', 'Version': '3.12.1150.0'}
+{'Name': 'Python 3.11.1 Tcl/Tk Support (64-bit)', 'Version': '3.11.1150.0'}
+{'Name': 'ASUS Aura SDK', 'Version': '3.04.39'}
+{'Name': 'Java(TM) SE Development Kit 19 (64-bit)', 'Version': '19.0.0.0'}
+{'Name': 'PHISON HAL', 'Version': '1.0.9.0'}
+{'Name': 'Microsoft Visual C++ 2010 x64 Redistributable - 10.0.40219', 'Version': '10.0.40219'}
+{'Name': 'Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664', 'Version': '12.0.40664'}
+{'Name': 'Microsoft Visual C++ 2010 x86 Redistributable - 10.0.40219', 'Version': '10.0.40219'}
+{'Name': 'Windows Subsystem for Linux', 'Version': '2.2.4.0'}
+{'Name': 'Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34433', 'Version': '14.42.34433'}
+{'Name': 'Node.js', 'Version': '18.17.1'}
+{'Name': 'Soda PDF Desktop 14 OCR Module', 'Version': '14.0.438.22951'}
+{'Name': 'Python Launcher', 'Version': '3.12.1150.0'}
+{'Name': 'Microsoft GameInput', 'Version': '10.1.22621.3036'}
+{'Name': "QGIS 3.34.1 'Prizren'", 'Version': '3.34.1'}
+{'Name': 'Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664', 'Version': '12.0.40664'}
+{'Name': 'AURA lighting effect add-on x64', 'Version': '0.0.24'}
+{'Name': 'Universal Holtek RGB DRAM', 'Version': '1.0.0.3'}
+{'Name': 'Java 8 Update 401', 'Version': '8.0.4010.10'}
+{'Name': 'WD_BLACK AN1500', 'Version': '1.0.14.0'}
+{'Name': 'AURA DRAM Component', 'Version': '1.1.23'}
+{'Name': 'EA app', 'Version': '13.69.0.5582'}
+{'Name': 'Java(TM) SE Development Kit 17.0.8 (64-bit)', 'Version': '17.0.8.0'}
+{'Name': 'ASUS AURA Motherboard HAL', 'Version': '1.3.7.0'}
+{'Name': 'Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34433', 'Version': '14.42.34433'}
+{'Name': 'ASUS AURA VGA Component', 'Version': '0.0.5.5'}
+{'Name': 'ROG Live Service', 'Version': '2.1.5.0'}
+{'Name': 'Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34433', 'Version': '14.42.34433'}
+{'Name': 'Cisco AnyConnect Secure Mobility Client', 'Version': '4.10.07061'}
+{'Name': 'ASUS Update Helper', 'Version': '1.3.107.129'}
+{'Name': 'Java(TM) SE Development Kit 23 (64-bit)', 'Version': '23.0.0.0'}
+{'Name': 'Google Earth Pro', 'Version': '7.3.6.10201'}
+{'Name': 'Soda PDF Desktop 14 Edit Module', 'Version': '14.0.438.22951'}
+{'Name': 'PuTTY release 0.80 (64-bit)', 'Version': '0.80.0.0'}
+{'Name': 'Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34433', 'Version': '14.42.34433'}
+{'Name': 'Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664', 'Version': '12.0.40664'}
+{'Name': 'AURA lighting effect add-on', 'Version': '0.0.24'}
+{'Name': 'Epic Online Services', 'Version': '2.0.44.0'}
+{'Name': 'Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030', 'Version': '11.0.61030'}
+{'Name': 'ENE RGB HAL', 'Version': '1.1.40.3'}
+{'Name': 'ASUS AURA Extension Card HAL', 'Version': '1.1.0.18'}
+{'Name': 'Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664', 'Version': '12.0.40664'}
+{'Name': 'Patriot Viper M2 SSD RGB', 'Version': '1.1.0.2'}
+{'Name': 'AURA Service', 'Version': '3.07.25'}
+{'Name': 'GameSDK Service', 'Version': '1.0.5.0'}
+{'Name': 'Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030', 'Version': '11.0.61030'}
+{'Name': 'ASUS AIOFan HAL', 'Version': '1.1.50.0'}
+{'Name': 'Microsoft Update Health Tools', 'Version': '5.72.0.0'}
+{'Name': 'AWS Command Line Interface v2', 'Version': '2.15.36.0'}
+{'Name': 'Patriot Viper DRAM RGB', 'Version': '1.0.9.4'}
+{'Name': 'Soda PDF Desktop 14 OCR TESS Module', 'Version': '14.0.438.22951'}
+{'Name': 'Kingston AURA DRAM Component', 'Version': '1.1.12'}
+{'Name': 'Java Auto Updater', 'Version': '2.8.401.10'}
+{'Name': 'ENE_EHD_M2_HAL', 'Version': '1.0.9.12'}
+{'Name': 'Soda PDF Desktop 14 View Module', 'Version': '14.0.438.22951'}
+{'Name': 'ARMOURY CRATE Lite Service', 'Version': '5.3.3'}
+
+Running Processes:
+--------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'pid': 0}
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'pid': 4}
+{'username': None, 'name': 'Registry', 'pid': 272}
+{'username': None, 'name': 'smss.exe', 'pid': 712}
+{'username': 'HERMES\\pttre', 'name': 'ArmouryCrate.UserSessionHelper.exe', 'pid': 724}
+{'username': 'HERMES\\pttre', 'name': 'CrossDeviceService.exe', 'pid': 820}
+{'username': None, 'name': 'csrss.exe', 'pid': 960}
+{'username': None, 'name': 'wininit.exe', 'pid': 1056}
+{'username': None, 'name': 'services.exe', 'pid': 1132}
+{'username': None, 'name': 'lsass.exe', 'pid': 1184}
+{'username': None, 'name': 'svchost.exe', 'pid': 1356}
+{'username': None, 'name': 'fontdrvhost.exe', 'pid': 1388}
+{'username': None, 'name': 'svchost.exe', 'pid': 1484}
+{'username': None, 'name': 'svchost.exe', 'pid': 1532}
+{'username': None, 'name': 'svchost.exe', 'pid': 1600}
+{'username': None, 'name': 'svchost.exe', 'pid': 1616}
+{'username': None, 'name': 'AggregatorHost.exe', 'pid': 1656}
+{'username': None, 'name': 'svchost.exe', 'pid': 1676}
+{'username': None, 'name': 'svchost.exe', 'pid': 1692}
+{'username': None, 'name': 'svchost.exe', 'pid': 1780}
+{'username': None, 'name': 'svchost.exe', 'pid': 1808}
+{'username': None, 'name': 'svchost.exe', 'pid': 1848}
+{'username': None, 'name': 'svchost.exe', 'pid': 1888}
+{'username': None, 'name': 'svchost.exe', 'pid': 2016}
+{'username': None, 'name': 'svchost.exe', 'pid': 2100}
+{'username': None, 'name': 'SearchIndexer.exe', 'pid': 2116}
+{'username': None, 'name': 'svchost.exe', 'pid': 2252}
+{'username': None, 'name': 'svchost.exe', 'pid': 2368}
+{'username': None, 'name': 'MsMpEng.exe', 'pid': 2404}
+{'username': None, 'name': 'svchost.exe', 'pid': 2420}
+{'username': None, 'name': 'svchost.exe', 'pid': 2440}
+{'username': None, 'name': 'NVDisplay.Container.exe', 'pid': 2536}
+{'username': None, 'name': 'svchost.exe', 'pid': 2596}
+{'username': 'HERMES\\pttre', 'name': 'ctfmon.exe', 'pid': 2604}
+{'username': None, 'name': 'svchost.exe', 'pid': 2708}
+{'username': None, 'name': 'svchost.exe', 'pid': 2720}
+{'username': None, 'name': 'AsusCertService.exe', 'pid': 2732}
+{'username': None, 'name': 'svchost.exe', 'pid': 2772}
+{'username': None, 'name': 'svchost.exe', 'pid': 2816}
+{'username': None, 'name': 'MemCompression', 'pid': 2944}
+{'username': None, 'name': 'dwm.exe', 'pid': 3004}
+{'username': None, 'name': 'svchost.exe', 'pid': 3016}
+{'username': None, 'name': 'svchost.exe', 'pid': 3024}
+{'username': None, 'name': 'svchost.exe', 'pid': 3032}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 3064}
+{'username': None, 'name': 'svchost.exe', 'pid': 3108}
+{'username': None, 'name': 'igfxCUIServiceN.exe', 'pid': 3136}
+{'username': None, 'name': 'svchost.exe', 'pid': 3168}
+{'username': None, 'name': 'svchost.exe', 'pid': 3180}
+{'username': None, 'name': 'EABackgroundService.exe', 'pid': 3232}
+{'username': None, 'name': 'svchost.exe', 'pid': 3300}
+{'username': None, 'name': 'atkexComSvc.exe', 'pid': 3360}
+{'username': None, 'name': 'svchost.exe', 'pid': 3380}
+{'username': None, 'name': 'svchost.exe', 'pid': 3412}
+{'username': None, 'name': 'svchost.exe', 'pid': 3496}
+{'username': 'HERMES\\pttre', 'name': 'slack.exe', 'pid': 3508}
+{'username': None, 'name': 'WmiPrvSE.exe', 'pid': 3672}
+{'username': 'HERMES\\pttre', 'name': 'jucheck.exe', 'pid': 3700}
+{'username': None, 'name': 'dasHost.exe', 'pid': 3744}
+{'username': 'HERMES\\pttre', 'name': 'Zoom.exe', 'pid': 3844}
+{'username': 'HERMES\\pttre', 'name': 'ApplicationFrameHost.exe', 'pid': 3848}
+{'username': None, 'name': 'svchost.exe', 'pid': 3944}
+{'username': None, 'name': 'svchost.exe', 'pid': 3948}
+{'username': None, 'name': 'svchost.exe', 'pid': 4052}
+{'username': None, 'name': 'svchost.exe', 'pid': 4060}
+{'username': None, 'name': 'vpnagent.exe', 'pid': 4068}
+{'username': None, 'name': 'svchost.exe', 'pid': 4140}
+{'username': None, 'name': 'svchost.exe', 'pid': 4224}
+{'username': None, 'name': 'svchost.exe', 'pid': 4248}
+{'username': None, 'name': 'svchost.exe', 'pid': 4284}
+{'username': None, 'name': 'svchost.exe', 'pid': 4360}
+{'username': None, 'name': 'svchost.exe', 'pid': 4432}
+{'username': None, 'name': 'svchost.exe', 'pid': 4520}
+{'username': None, 'name': 'svchost.exe', 'pid': 4528}
+{'username': 'HERMES\\pttre', 'name': 'StartMenuExperienceHost.exe', 'pid': 4560}
+{'username': None, 'name': 'svchost.exe', 'pid': 4588}
+{'username': None, 'name': 'svchost.exe', 'pid': 4712}
+{'username': None, 'name': 'svchost.exe', 'pid': 4788}
+{'username': None, 'name': 'svchost.exe', 'pid': 4880}
+{'username': None, 'name': 'svchost.exe', 'pid': 4904}
+{'username': None, 'name': 'svchost.exe', 'pid': 4912}
+{'username': None, 'name': 'svchost.exe', 'pid': 4960}
+{'username': None, 'name': 'IntelCpHDCPSvc.exe', 'pid': 5012}
+{'username': None, 'name': 'OneApp.IGCC.WinService.exe', 'pid': 5036}
+{'username': None, 'name': 'GameSDK.exe', 'pid': 5056}
+{'username': None, 'name': 'ArmouryCrate.Service.exe', 'pid': 5068}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 5076}
+{'username': None, 'name': 'httpd.exe', 'pid': 5080}
+{'username': None, 'name': 'nvcontainer.exe', 'pid': 5088}
+{'username': None, 'name': 'AsusFanControlService.exe', 'pid': 5100}
+{'username': None, 'name': 'ROGLiveService.exe', 'pid': 5112}
+{'username': None, 'name': 'TPMProvisioningService.exe', 'pid': 5136}
+{'username': None, 'name': 'HPPrintScanDoctorService.exe', 'pid': 5152}
+{'username': None, 'name': 'jhi_service.exe', 'pid': 5160}
+{'username': None, 'name': 'WMIRegistrationService.exe', 'pid': 5172}
+{'username': None, 'name': 'LightingService.exe', 'pid': 5184}
+{'username': None, 'name': 'wslservice.exe', 'pid': 5204}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 5252}
+{'username': None, 'name': 'svchost.exe', 'pid': 5436}
+{'username': None, 'name': 'svchost.exe', 'pid': 5444}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 5592}
+{'username': 'HERMES\\pttre', 'name': 'slack.exe', 'pid': 5648}
+{'username': None, 'name': 'wlanext.exe', 'pid': 5768}
+{'username': None, 'name': 'svchost.exe', 'pid': 5788}
+{'username': None, 'name': 'svchost.exe', 'pid': 6312}
+{'username': None, 'name': 'Aac3572MbHal_x86.exe', 'pid': 6492}
+{'username': None, 'name': 'httpd.exe', 'pid': 6880}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 6940}
+{'username': None, 'name': 'unsecapp.exe', 'pid': 6944}
+{'username': None, 'name': 'svchost.exe', 'pid': 7028}
+{'username': None, 'name': 'Aac3572DramHal_x86.exe', 'pid': 7612}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 7624}
+{'username': None, 'name': 'AacKingstonDramHal_x64.exe', 'pid': 7648}
+{'username': None, 'name': 'svchost.exe', 'pid': 7724}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 7916}
+{'username': None, 'name': 'extensionCardHal_x86.exe', 'pid': 8032}
+{'username': None, 'name': 'AacKingstonDramHal_x86.exe', 'pid': 8184}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 8336}
+{'username': None, 'name': 'NisSrv.exe', 'pid': 8340}
+{'username': None, 'name': 'svchost.exe', 'pid': 8484}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 8512}
+{'username': 'HERMES\\pttre', 'name': 'atom.exe', 'pid': 8624}
+{'username': None, 'name': 'MpDefenderCoreService.exe', 'pid': 9056}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 9144}
+{'username': 'HERMES\\pttre', 'name': 'atom.exe', 'pid': 9264}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 9436}
+{'username': None, 'name': 'svchost.exe', 'pid': 9456}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 9580}
+{'username': None, 'name': 'svchost.exe', 'pid': 9640}
+{'username': None, 'name': 'svchost.exe', 'pid': 9696}
+{'username': None, 'name': 'spoolsv.exe', 'pid': 9700}
+{'username': None, 'name': 'NVDisplay.Container.exe', 'pid': 9908}
+{'username': 'HERMES\\pttre', 'name': 'ShellHost.exe', 'pid': 9920}
+{'username': None, 'name': 'audiodg.exe', 'pid': 10052}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 10324}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 10356}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 10420}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 10424}
+{'username': None, 'name': 'svchost.exe', 'pid': 10816}
+{'username': None, 'name': 'svchost.exe', 'pid': 10932}
+{'username': 'HERMES\\pttre', 'name': 'NVIDIA Web Helper.exe', 'pid': 11216}
+{'username': None, 'name': 'activation-service.exe', 'pid': 11240}
+{'username': 'HERMES\\pttre', 'name': 'SearchHost.exe', 'pid': 11360}
+{'username': None, 'name': 'svchost.exe', 'pid': 11392}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 11436}
+{'username': 'HERMES\\pttre', 'name': 'WindowsTerminal.exe', 'pid': 11488}
+{'username': None, 'name': 'svchost.exe', 'pid': 11580}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 11984}
+{'username': None, 'name': 'svchost.exe', 'pid': 12024}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 12468}
+{'username': 'HERMES\\pttre', 'name': 'conhost.exe', 'pid': 12540}
+{'username': 'HERMES\\pttre', 'name': 'sihost.exe', 'pid': 12544}
+{'username': 'HERMES\\pttre', 'name': 'CopilotNative.exe', 'pid': 12816}
+{'username': None, 'name': 'gamingservicesnet.exe', 'pid': 12916}
+{'username': None, 'name': 'svchost.exe', 'pid': 12952}
+{'username': None, 'name': 'gamingservices.exe', 'pid': 13040}
+{'username': None, 'name': 'WmiApSrv.exe', 'pid': 13104}
+{'username': None, 'name': 'svchost.exe', 'pid': 13148}
+{'username': 'HERMES\\pttre', 'name': 'atom.exe', 'pid': 13392}
+{'username': 'HERMES\\pttre', 'name': 'conhost.exe', 'pid': 13464}
+{'username': None, 'name': 'svchost.exe', 'pid': 13760}
+{'username': 'HERMES\\pttre', 'name': 'conhost.exe', 'pid': 13764}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 13916}
+{'username': None, 'name': 'WmiPrvSE.exe', 'pid': 14168}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 14632}
+{'username': 'HERMES\\pttre', 'name': 'SystemSettings.exe', 'pid': 15012}
+{'username': None, 'name': 'csrss.exe', 'pid': 15108}
+{'username': None, 'name': 'svchost.exe', 'pid': 15280}
+{'username': None, 'name': 'svchost.exe', 'pid': 15564}
+{'username': 'HERMES\\pttre', 'name': 'dllhost.exe', 'pid': 15776}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 15844}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 15872}
+{'username': None, 'name': 'msiexec.exe', 'pid': 15992}
+{'username': 'HERMES\\pttre', 'name': 'Aac3572MbHal_x86.exe', 'pid': 16228}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 16348}
+{'username': 'HERMES\\pttre', 'name': 'HxTsr.exe', 'pid': 17008}
+{'username': 'HERMES\\pttre', 'name': 'NVIDIA Share.exe', 'pid': 17348}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 17412}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 17860}
+{'username': 'HERMES\\pttre', 'name': 'LockApp.exe', 'pid': 18012}
+{'username': None, 'name': 'SecurityHealthService.exe', 'pid': 18412}
+{'username': 'HERMES\\pttre', 'name': 'dllhost.exe', 'pid': 18636}
+{'username': 'HERMES\\pttre', 'name': 'ollama app.exe', 'pid': 18676}
+{'username': None, 'name': 'svchost.exe', 'pid': 18776}
+{'username': 'HERMES\\pttre', 'name': 'soda.exe', 'pid': 19016}
+{'username': 'HERMES\\pttre', 'name': 'explorer.exe', 'pid': 19080}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 19104}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 19168}
+{'username': 'HERMES\\pttre', 'name': 'dllhost.exe', 'pid': 19256}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 19280}
+{'username': 'HERMES\\pttre', 'name': 'steam.exe', 'pid': 19288}
+{'username': 'HERMES\\pttre', 'name': 'RobloxPlayerBeta.exe', 'pid': 19420}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 19596}
+{'username': 'HERMES\\pttre', 'name': 'python.exe', 'pid': 19692}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 19924}
+{'username': 'HERMES\\pttre', 'name': 'atom.exe', 'pid': 20364}
+{'username': 'HERMES\\pttre', 'name': 'slack.exe', 'pid': 20388}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 20592}
+{'username': None, 'name': 'svchost.exe', 'pid': 20780}
+{'username': 'HERMES\\pttre', 'name': 'slack.exe', 'pid': 20876}
+{'username': 'HERMES\\pttre', 'name': 'nvcontainer.exe', 'pid': 21128}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 21328}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 22196}
+{'username': 'HERMES\\pttre', 'name': 'OpenConsole.exe', 'pid': 22500}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 22708}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 23044}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 23216}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 23340}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 23608}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 23624}
+{'username': None, 'name': 'dasHost.exe', 'pid': 23828}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 23872}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 23996}
+{'username': 'HERMES\\pttre', 'name': 'conhost.exe', 'pid': 24084}
+{'username': 'HERMES\\pttre', 'name': 'slack.exe', 'pid': 24512}
+{'username': 'HERMES\\pttre', 'name': 'backgroundTaskHost.exe', 'pid': 24568}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 24612}
+{'username': None, 'name': 'steamservice.exe', 'pid': 24812}
+{'username': 'HERMES\\pttre', 'name': 'ms-teams.exe', 'pid': 24840}
+{'username': 'HERMES\\pttre', 'name': 'HxOutlook.exe', 'pid': 24920}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 25048}
+{'username': None, 'name': 'svchost.exe', 'pid': 25232}
+{'username': None, 'name': 'svchost.exe', 'pid': 25276}
+{'username': 'HERMES\\pttre', 'name': 'jusched.exe', 'pid': 25324}
+{'username': 'HERMES\\pttre', 'name': 'nvcontainer.exe', 'pid': 25428}
+{'username': 'HERMES\\pttre', 'name': 'Widgets.exe', 'pid': 25540}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 25664}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 25748}
+{'username': None, 'name': 'svchost.exe', 'pid': 25816}
+{'username': 'HERMES\\pttre', 'name': 'XboxPcAppFT.exe', 'pid': 25864}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 26124}
+{'username': 'HERMES\\pttre', 'name': 'TextInputHost.exe', 'pid': 26188}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 26316}
+{'username': 'HERMES\\pttre', 'name': 'UserOOBEBroker.exe', 'pid': 26348}
+{'username': 'HERMES\\pttre', 'name': 'ms-teams.exe', 'pid': 27144}
+{'username': None, 'name': 'svchost.exe', 'pid': 27304}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 27476}
+{'username': 'HERMES\\pttre', 'name': 'Zoom.exe', 'pid': 27604}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 27840}
+{'username': 'HERMES\\pttre', 'name': 'steamwebhelper.exe', 'pid': 27916}
+{'username': 'HERMES\\pttre', 'name': 'nvsphelper64.exe', 'pid': 27936}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 27948}
+{'username': 'HERMES\\pttre', 'name': 'atom.exe', 'pid': 28160}
+{'username': None, 'name': 'svchost.exe', 'pid': 28620}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 28668}
+{'username': 'HERMES\\pttre', 'name': 'ShellExperienceHost.exe', 'pid': 29032}
+{'username': None, 'name': 'fontdrvhost.exe', 'pid': 29288}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 29368}
+{'username': None, 'name': 'winlogon.exe', 'pid': 29796}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 29848}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 30208}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 30436}
+{'username': 'HERMES\\pttre', 'name': 'slack.exe', 'pid': 30508}
+{'username': None, 'name': 'svchost.exe', 'pid': 31388}
+{'username': 'HERMES\\pttre', 'name': 'backgroundTaskHost.exe', 'pid': 31792}
+{'username': 'HERMES\\pttre', 'name': 'cmd.exe', 'pid': 32164}
+{'username': 'HERMES\\pttre', 'name': 'atom.exe', 'pid': 32676}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 33072}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 33188}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 33228}
+{'username': 'HERMES\\pttre', 'name': 'WidgetService.exe', 'pid': 33380}
+{'username': 'HERMES\\pttre', 'name': 'vpnui.exe', 'pid': 33524}
+{'username': 'HERMES\\pttre', 'name': 'taskhostw.exe', 'pid': 33584}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 33608}
+{'username': 'HERMES\\pttre', 'name': 'NVIDIA Share.exe', 'pid': 33612}
+{'username': 'HERMES\\pttre', 'name': 'slack.exe', 'pid': 33616}
+{'username': None, 'name': 'SearchFilterHost.exe', 'pid': 33960}
+{'username': 'HERMES\\pttre', 'name': 'PhoneExperienceHost.exe', 'pid': 34048}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 34216}
+{'username': 'HERMES\\pttre', 'name': 'NVIDIA Share.exe', 'pid': 34800}
+{'username': 'HERMES\\pttre', 'name': 'svchost.exe', 'pid': 34984}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 35116}
+{'username': 'HERMES\\pttre', 'name': 'msedgewebview2.exe', 'pid': 35540}
+{'username': 'HERMES\\pttre', 'name': 'ollama.exe', 'pid': 35560}
+{'username': 'HERMES\\pttre', 'name': 'msedge.exe', 'pid': 36196}
+{'username': None, 'name': 'WmiPrvSE.exe', 'pid': 38012}
+{'username': 'HERMES\\pttre', 'name': 'taskhostw.exe', 'pid': 38148}
+{'username': 'HERMES\\pttre', 'name': 'RuntimeBroker.exe', 'pid': 38564}
+{'username': None, 'name': 'SearchProtocolHost.exe', 'pid': 38732}
+
+Security Settings:
+--------------------
+{'Firewall': 'Enabled', 'Antivirus': 'Enabled'}
+
+User Accounts:
+--------------------
+Administrator            DefaultAccount           Guest
+pttre                    WDAGUtilityAccount
+The command completed successfully.
+
+File System Information:
+--------------------
+{'Device': 'C:\\', 'Mountpoint': 'C:\\', 'File System Type': 'NTFS', 'Total Size': 999355838464, 'Used': 848312180736, 'Free': 151043657728, 'Percentage Used': 84.9}
+{'Device': 'P:\\', 'Mountpoint': 'P:\\', 'File System Type': 'NTFS', 'Total Size': 8001545039872, 'Used': 1055002624, 'Free': 8000490037248, 'Percentage Used': 0.0}
+
