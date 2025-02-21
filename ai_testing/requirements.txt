@@ -1,0 +1,8 @@
+flask
+requests
+deepseek
+llama
+transformers
+psutil
+esprima
+javaparser
