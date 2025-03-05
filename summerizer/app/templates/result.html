@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis and Summary Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="result-container">
+            <h1>Analysis and Summary Result</h1>
+            {% if sentiment %}
+                <h2>Sentiment:</h2>
+                <p>{{ sentiment }}</p>
+            {% endif %}
+            {% if summary %}
+                <h2>Summary:</h2>
+                <p>{{ summary }}</p>
+            {% endif %}
+            <a href="/" class="back-link">Back</a>
+        </div>
+    </div>
+</body>
+</html>
